@@ -2,6 +2,12 @@
 
 This project uses **Support Vector Regression (SVR)** to predict **final grades (G3)** of students based on various academic and demographic features from the **UCI Student Performance dataset**.
 
+### 📸 Confusion Matrix Output
+Here’s the confusion matrix visualization from the model:
+
+![Confusion Matrix](Matrix%20output.png)
+
+
 ## 📌 Features
 - Fetches **student performance data** from the UCI ML Repository.
 - Cleans and preprocesses data (handling missing values, encoding categorical variables).
