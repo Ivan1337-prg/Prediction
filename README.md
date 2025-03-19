@@ -1,4 +1,5 @@
-# Final Grade Prediction using SVR
+# Glushko-Taras-M5-Assignment 
+### Final Grade Prediction using SVR
 
 This project uses **Support Vector Regression (SVR)** to predict **final grades (G3)** of students based on various academic and demographic features from the **UCI Student Performance dataset**.
 
